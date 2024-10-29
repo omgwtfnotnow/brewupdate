@@ -1,0 +1,1 @@
+('/Users/parth/Local Space 01/Homebrew APP/build/brewupdate/PYZ-00.pyz', [])

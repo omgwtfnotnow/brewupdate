@@ -1,0 +1,3 @@
+([('brewupdate',
+   '/Users/parth/Local Space 01/Homebrew APP/dist/brewupdate',
+   'EXECUTABLE')],)
